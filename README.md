@@ -1,2 +1,2 @@
 # training
-github initialising
+github initialisin
